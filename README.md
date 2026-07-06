@@ -1,1 +1,1 @@
-# ritmo
+# Ritmo Dance Studio
